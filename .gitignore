@@ -1,0 +1,5 @@
+conf.txt
+*.log
+*.tmp
+.env
+.venv   
